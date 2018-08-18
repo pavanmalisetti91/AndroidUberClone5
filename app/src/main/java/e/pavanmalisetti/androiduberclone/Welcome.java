@@ -82,7 +82,7 @@ public class Welcome extends FragmentActivity implements OnMapReadyCallback,
     private GoogleMap mMap;
 
     //play services
-    private static final int  MY_PERMISSION_REQUEST_CODE=7000;
+    private static final int MY_PERMISSION_REQUEST_CODE=7000;
     private static final int PLAY_SERVICE_RES_REQUEST=7001;
 
     private LocationRequest mLocationRequest;
